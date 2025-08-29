@@ -1,0 +1,81 @@
+.box1{
+    height: 150px;
+    width: 10%;
+    background-color: lemonchiffon;
+    outline: 5px solid orange;
+    border: 5px solid orangered;
+    border-top-right-radius:40px ;
+    box-sizing: border-box;
+    float: left;
+    
+}
+.box2{
+    height: 150px;
+    width: 10%;
+    background-color: lemonchiffon;
+    outline: 5px solid orange;
+    border: 5px solid orangered;
+    border-top-left-radius: 40px;
+    box-sizing: border-box;
+    float: left;
+}
+.box3{
+    height: 150px;
+    width: 10%;
+    background-color: lemonchiffon;
+    outline: 5px solid orange;
+    border: 5px solid orangered;
+    border-bottom-right-radius:40px ;
+    box-sizing: border-box;
+    float: left; 
+}
+.box4{
+    height: 150px;
+    width: 10%;
+    background-color: lemonchiffon;
+    outline: 5px solid orange;
+    border: 5px solid orangered;
+    border-bottom-left-radius:40px ;
+    box-sizing: border-box;
+    float: left; 
+}
+.box5{
+    height: 150px;
+    width: 10%;
+    background-color: purple;
+    outline: 5px solid orange;
+    border: 5px solid orangered;
+    border-bottom-right-radius:80% ;
+    box-sizing: border-box;
+    float: left; 
+}
+.box6{
+    height: 150px;
+    width: 10%;
+    background-color: purple;
+    outline: 5px solid orange;
+    border: 5px solid orangered;
+    border-bottom-left-radius:80% ;
+    box-sizing: border-box;
+    float: left; 
+}
+.box7{
+    height: 150px;
+    width: 10%;
+    background-color: purple;
+    outline: 5px solid orange;
+    border: 5px solid orangered;
+    border-top-right-radius:80% ;
+    box-sizing: border-box;
+    float: left; 
+}
+.box8{
+    height: 150px;
+    width: 10%;
+    background-color: purple;
+    outline: 5px solid orange;
+    border: 5px solid orangered;
+    border-top-left-radius:80% ;
+    box-sizing: border-box;
+    float: left; 
+}

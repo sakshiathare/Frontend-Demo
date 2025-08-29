@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../html/html_Tag"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AtoZ"
+	}
+}

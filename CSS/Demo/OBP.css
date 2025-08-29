@@ -1,0 +1,13 @@
+.outline_box{
+    margin-top: 10%;
+    margin-left: 30%;
+    height: 300px;
+    width: 30%;
+    float: left;
+    background-color: aqua;
+    border: 10px solid darkblue;
+    outline-width: 10px;
+    outline-color: navy;
+    outline-style: solid;
+    outline-offset: 5px;
+}

@@ -1,0 +1,71 @@
+.body{
+    height: 630px;
+    width: 100% ;
+    float: left;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj75hBE2uNg3UWEjBab2NhGg1wdJnER-JuIw&usqp=CAU');
+    background-size: 100% 100%;
+    
+
+}
+.box1{
+    width: 50%;
+    height: 350px;
+    
+}
+.box11{
+   width: 100%;
+   height: 60%;
+ float: left;
+}
+.lang{
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+.lang li{
+border: 2px solid red;
+margin-top: 20px;
+padding: 10px;
+color: white;
+list-style-type: none;
+text-align: center;
+border-radius: 10px;
+background-color: hsla(240, 100%, 30%, 0.3);
+}
+.box3{
+    width: 50%;
+    height: 100%;
+    margin-top: -500px;
+    
+    margin-left: 700px;
+    float: left;
+   
+}
+.form
+{
+    height: 450px;
+    width: 60%;
+    margin: 20%;
+    margin-top: 40px;
+    background-color: hsla(240, 100%, 30%, 0.3);
+    float: left;
+    border-radius: 20px;
+}
+.in{
+    width: 80%;
+    height: 30px;
+    padding: 5px;
+    margin-left: 30px;
+    background-color: black;
+    border-radius: 20px;
+    border-bottom: 5px solid darkred;
+    color: white;
+    text-align: center;
+    
+}
+.box2
+{
+  margin-left: 130px;
+  float: left;
+  margin-top: -100px;
+}

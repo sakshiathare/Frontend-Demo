@@ -1,0 +1,27 @@
+.float_clear1
+{
+    height: 400px;
+    width:40% ;
+    float: left;
+    background:red;
+}
+.float_clear2{
+    height: 400px;
+    width:40% ;
+    float: left;
+    background:black;
+}
+.display_visibility_box1
+{
+    height: 100px;
+    width: 100px;
+    float: left;
+    background-color: pink;
+}
+.display_visibility_box2
+{
+    height: 100px;
+    width: 100px;
+
+    background-color: orangered;
+}

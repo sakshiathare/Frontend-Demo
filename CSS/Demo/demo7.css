@@ -1,0 +1,14 @@
+.overflow_box{
+    background-color: blueviolet;
+    height: 300px;
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    overflow: scroll;
+
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

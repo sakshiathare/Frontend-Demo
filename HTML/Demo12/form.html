@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <form action="save.html" method="get" enctype="multipart/form-data">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label>Name:</label>
+            <input type="text"  name="name" value="sakshi" placeholder="enter name" autocomplete="off" readonly><br><br>
+            <label >Email:</label>
+            <input type="email" name="email" placeholder="enter email"><br><br>
+            <label>Phone:</label>
+            <input type="number" name="phone number" placeholder="enter Phone no" autofocus><br><br>
+            <label >DOB:</label>
+            <input type="date" name="date of birth"><br><br>
+            <label >Gender:</label>
+            <input type="radio" name="gender"><b>Female</b>
+            <input type="radio" name="gender"> <b>Male</b><br><br>
+            <label >Photo:</label>
+            <input type="file" name="photo">
+
+        </fieldset>
+        <fieldset>
+            <legend>Address & Cource & Login Detalis</legend>
+            <label>State:</label>
+            <select> 
+                <option>Choose State</option>
+                <option name="maharastra" selected>Maha</option>
+                <option name="gujrat">Guj</option>
+                <option name="rajsthan">Raj</option>
+            </select><br><br>
+            <label>Full Address:</label>
+            <textarea name="address" placeholder="Address"></textarea><br><br>
+            <label >pincode:</label>
+            <input type="number" name="pincode" minlength="1" maxlength="10"><br><br>
+            <label>Cource</label>
+            <input type="checkbox" name="cource html"><b>Html</b>
+            <input type="checkbox" name="cource css"><b>CSS</b>
+            <input type="checkbox" name="cource js"><b>JS</b><br><br>
+            <label >Username:</label>
+            <input type="text" name="username" required minlength="5" maxlength="10"><br><br>
+            <label >Password</label>
+            <input type="password" name="password" required><br><br>
+            <input type="reset">
+            <input type="submit">
+            <button type="reset">Empty</button>
+            <button type="submit">Save</button>
+        </fieldset>
+
+
+    </form>
+</body>
+</html>

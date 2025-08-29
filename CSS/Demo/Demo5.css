@@ -1,0 +1,13 @@
+.gradient_box1{
+    height: 600px;
+    width: 50%;
+    float: left;
+    background-image: linear-gradient(hotpink , pink,white,pink,deeppink);
+}
+.gradient_box2{
+    height: 600px;
+    width: 50%;
+    float: left;
+    background-image:radial-gradient(darkred,red,black
+    )
+}

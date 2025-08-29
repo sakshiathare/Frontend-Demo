@@ -1,0 +1,33 @@
+.height_width_prop
+{
+height: 300px;
+min-height: 100px;
+min-width: 50%;
+width: 100%;
+max-width: 200px;
+max-height: 100px;
+float: left;
+}
+.filter_prop
+{
+    width: 50%;
+    height: 300px;
+    filter:blur(5px);
+    filter: hue-rotate(40deg);
+    float: left;
+}
+.cursor_box
+{
+    height: 400px;
+    width: 400px;
+    float: left;
+    background-color: red;
+    cursor: progress;
+    cursor: pointer;
+   
+}
+
+.icon{
+    color: blueviolet;
+    
+}
